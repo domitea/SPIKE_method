@@ -21,6 +21,10 @@ It is an iterative and practical way to learn, improve, and create solutions tha
 - **K**nowledge Integration – Connecting different disciplines and finding patterns.
 - **E**xperimentation – Testing hypotheses, verifying results, and exploring new solutions.
 
+## The Crisis of Physics Education – What’s Wrong?
+ - **Research shows that physics is one of the least popular subjects**, often perceived as **difficult and useless** by students.
+ - Data from a study on students' perceptions of subjects ([in Czech research](https://pages.pedf.cuni.cz/pedagogika/?attachment_id=953&edmc=953)) reveal that **practical subjects like technology education – which applies physics – are seen as far more engaging than physics itself.**
+
 ## How to use it?
 1. **Start with a simple prototype** – Don't aim for perfection; the goal is to try something.
 2. **Don't wait for the perfect plan** – Perfect plans don’t exist. Make a first version and find out what’s wrong.
